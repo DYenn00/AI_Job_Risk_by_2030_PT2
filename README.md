@@ -64,7 +64,7 @@ This project is implemented in Python and uses the following core libraries for 
 
 This project is designed to work with publicly available datasets, from Kaggle:
 
-- The Raw data set will be avaible for download under 'data/raw'or you can create an account and download it here: https://www.kaggle.com/datasets/akshwint/ai-job-impact-detection-dataset
+- download it here: https://www.kaggle.com/datasets/akshwint/ai-job-impact-detection-dataset
 
 ## Methodology
 
