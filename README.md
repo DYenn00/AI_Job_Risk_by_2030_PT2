@@ -40,7 +40,8 @@ This project is implemented in Python and uses the following core libraries for 
 ## Features
 
 ​1. Job metadata
--Includes core descriptive fields such as job title, role category, and industry, which are used to group and compare occupations by their exposure to AI.
+
+- Includes core descriptive fields such as job title, role category, and industry, which are used to group and compare occupations by their exposure to AI.
 ​
 
 2. AI impact and automation indicators
